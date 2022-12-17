@@ -23,7 +23,7 @@
   right: 0;
   bottom: 0;
   z-index: -1;
-  background-color: #000;
+  background-color: #2a2c2f;
   opacity: 0.3;
   transition: opacity 350ms ease;
 }

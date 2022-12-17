@@ -2,6 +2,7 @@
   grid-area: image;
   max-width: 460px;
   max-height: 460px;
+  align-self: start;
 }
 
 @media screen and (max-width: 1279px) {

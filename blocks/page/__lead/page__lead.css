@@ -1,23 +1,23 @@
-.page__lead{
-    margin: auto;
-    margin-top: 56px;
-    margin-bottom: 92px;
+.page__lead {
+  margin: auto;
+  margin-top: 56px;
+  margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1279px) {
-    .lead {
-      margin-top: 48px;
-    }
+  .lead {
+    margin-top: 48px;
+  }
 }
 
 @media screen and (max-width: 1023px) {
-    .lead {
-      margin-bottom: 88px;
-    }
+  .lead {
+    margin-bottom: 88px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .lead {
-      margin-bottom: 64px;
-    }
+  .lead {
+    margin-bottom: 64px;
+  }
 }

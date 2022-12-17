@@ -32,5 +32,6 @@
     max-width: 320px;
     min-width: 288px;
     margin: 64px auto;
+    padding: 0 16px;
   }
 }

@@ -1,9 +1,15 @@
+.links {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(min-content, max-content));
+  grid-template-rows: 1fr;
+}
+
 @media screen and (max-width: 767px) {
-    .links {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: repeat(5,minmax(min-content, max-content));
-        gap: 32px;
-        align-content: start;
-    }
+  .links {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, minmax(min-content, max-content));
+    gap: 32px;
+    align-content: start;
+  }
 }

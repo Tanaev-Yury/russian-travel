@@ -2,6 +2,8 @@
   max-height: 660px;
   margin-bottom: 92px;
   display: grid;
+  align-items: end;
+  justify-self: start;
   gap: 48px 40px;
   grid-template-columns: minmax(min-content, max-content) minmax(
       min-content,
