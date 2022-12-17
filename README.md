@@ -11,5 +11,5 @@
 Планы по дорабке:  
 Планируется увеличить плавность сайта с помощью JavaScript.
 
-### [Ссылка на гитхаб](https://github.com/Quacevizz/russian-travel/deployments/activity_log?environment=github-pages "Переход на страницу с проектом")
+### [Ссылка на сайт](https://quacevizz.github.io/russian-travel/ "Переход на страницу с проектом")
 
