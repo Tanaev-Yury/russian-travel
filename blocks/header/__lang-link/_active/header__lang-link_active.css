@@ -1,14 +1,14 @@
 .header__lang-link_active {
-    text-decoration: underline;
-    width: 30px;
-    margin-right: 18px;
+  text-decoration: underline;
+  width: 30px;
+  margin-right: 18px;
 }
 
 @media screen and (max-width: 767px) {
-    .header__lang-link_active {
-        font-size: 18px;
-        line-height: 20px;
-        width: 22px;
-        height: 20px;
-    }
-}   
+  .header__lang-link_active {
+    font-size: 18px;
+    line-height: 20px;
+    width: 22px;
+    height: 20px;
+  }
+}
