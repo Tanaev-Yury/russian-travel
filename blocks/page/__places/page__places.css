@@ -1,0 +1,9 @@
+.page__places {
+    margin: 92px auto;
+}
+
+@media screen and (max-width: 767px) {
+    .page__places {
+      margin-bottom: 66px;
+    }
+  }

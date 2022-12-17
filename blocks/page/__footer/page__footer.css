@@ -1,0 +1,17 @@
+.page__footer {
+  margin: 92px auto 0;
+  padding-bottom: 24px;
+}
+
+@media screen and (max-width: 1024px) {
+  .footer {
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page__footer {
+    margin: 0 118px 24px 16px;
+    padding: 0;
+  }
+}
