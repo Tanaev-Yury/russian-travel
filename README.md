@@ -11,5 +11,5 @@
 Планы по доработке:  
 Планируется увеличить плавность сайта с помощью JavaScript.
 
-### [Ссылка на сайт](https://quacevizz.github.io/russian-travel/ "Переход на страницу с проектом")
+### [Ссылка на сайт](https://tanaev-yury.github.io/russian-travel/ "Переход на страницу с проектом")
 
